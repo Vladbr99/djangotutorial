@@ -1,0 +1,10 @@
+#header {
+    color: #bc0000;
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+}
+#site-name {
+    font-size: 58px;
+    font-weight: bold;
+    color: #343a40;
+}
